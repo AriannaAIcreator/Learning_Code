@@ -1,3 +1,8 @@
+
+fruits = ("apple", "banana", "cherry")
+print(fruits[0]) #you start 0,1,2,3 etc...
+print(fruits[-1])
+t = (1,2,3)
  Mydictionaries
 my_dict = {'key1':'value1','key2':'value2'}
 my_dict
@@ -22,7 +27,6 @@ if hungry:
 else:
     print('NOT HUNGRY')
 age = 15
-
 if age > 15:
     print(f'You can drive')
 else:
