@@ -17,7 +17,10 @@ if hungry:
     print('FEED ME')
 else:
     print('NOT HUNGRY')
+ 
+age = 15
 
-
-
-    
+if age > 15:
+    print(f'You can drive')
+else:
+    print(f'you cannot drive')
