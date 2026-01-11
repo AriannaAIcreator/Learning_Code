@@ -38,7 +38,7 @@ if age > 15:
     print(f'You can drive')
 else:
     print(f'you cannot drive')
-# Iterate over a list of fruits and print each one
+#Iterate over a list of fruits and print each one
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
@@ -48,5 +48,6 @@ for i in range(5):
 word = "Python"
 
 for letter in word:
-    print("Gimme a " + letter + "!")     
+    print("Gimme a " + letter + "!") 
+
 
