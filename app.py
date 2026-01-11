@@ -10,7 +10,7 @@ fruits = ("apple", "banana", "cherry")
 print(fruits[0]) #you start 0,1,2,3 etc...
 print(fruits[-1])
 t = (1,2,3)
- Mydictionaries
+#Mydictionaries
 my_dict = {'key1':'value1','key2':'value2'}
 my_dict
 my_dict['key1']
@@ -38,4 +38,15 @@ if age > 15:
     print(f'You can drive')
 else:
     print(f'you cannot drive')
+# Iterate over a list of fruits and print each one
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+ # Loop five times using the range() function
+for i in range(5):
+  print(i)
+word = "Python"
+
+for letter in word:
+    print("Gimme a " + letter + "!")     
 
