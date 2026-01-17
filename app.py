@@ -49,5 +49,11 @@ word = "Python"
 
 for letter in word:
     print("Gimme a " + letter + "!") 
+counter = 1
+while counter < 5:
+  print(counter)
+  counter += 1
+else:
+  print("Loop completed without a break.")
 
 
