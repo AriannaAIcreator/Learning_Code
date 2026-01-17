@@ -38,7 +38,7 @@ if age > 15:
     print(f'You can drive')
 else:
     print(f'you cannot drive')
-# Iterate over a list of fruits and print each one
+#Iterate over a list of fruits and print each one
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
